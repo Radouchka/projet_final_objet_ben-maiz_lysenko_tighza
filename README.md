@@ -1,12 +1,12 @@
 # Cadenas Mysterieux
-L'idée principale s'agit de decoder un coffre grâce à des puzzle qui donnerait les chiffres requis pour pouvoir ouvrir le coffre. Il y a deux puzzle qui constituent de mini jeu auquel si reussit, donnent des parties du code pour pouvoir ouvrir le coffre.
+L'idée principale consiste à déverrouiller un coffre grâce à des énigmes sous forme de mini-jeux. Deux puzzles doivent être résolus afin d'obtenir les différentes parties du code nécessaires pour ouvrir le coffre.
 
 ## Mini jeu 1
 ### élément électronique
-
+Photorésistance
 ### fonction
 
 ## Mini jeu 2
 ### élément électronique
-
+Boutton DEL
 ### fonction
